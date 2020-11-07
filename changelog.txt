@@ -1,0 +1,83 @@
+If you like my mods, you can buy me a beer! :)
+
+
+Infernal Zone is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspaired in some other mods and much new stuff to make the game harder.
+In this mod, you'll find many stuff from other known mods, but drasticaly modified here.
+I wanted to make this mod because, in my opinion, nightmare zone is too easy and my friends and me were lacking some challenge.
+Infernal Zone is designed to be played by 2-4 good players, but you can play it alone if you are good enough.
+
+DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!!!
+
+
+What does Infernal Mod changes in the game?
+
+Gameplay:
+
+- No Peaceful Start: All* Freaks and Blood Freaks will spawn right from the start of the game, not after a couple of minutes [*Except for Blood Ferals]
+- Altered Starter Items: A chance* to start with a .22/.45/9mm revolver/pistols, ammo, plague cure... OR NO GUN AT ALL, feeling lucky? [*chance per survivor]
+- Infernal Infestation: Infestations now may have 1 Blood Feral, 1 Blood Bloater, 2-4 Blood Screamers and a bunch of Plague Zombies
+- Crouch Sprinting Enabled by default
+- All Specialization Unlocked
+- Morale changes
+- Now it costs more influence and some materials to claim an outpost
+- Increased damage taken from all sources [WILL AFFECT CLIENTS AS WELL, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!]
+- Reduced EXP gains
+- Increased all vehicle gas tanks, trunk size and top speeds to be more realistic
+- Increased the amount of ammo you can carry depending on the ammo size
+- Enclaves now spawn with 4-6 members
+- Enclaves now sell more items and ammo
+- Enclaves will now have better weapons
+- Car Headlights are now much brighter
+
+
+Zombies and Freaks:
+- Added Blood Freaks spawn and even more Zombies in the field as days goes by
+- Blood Ferals are a bit harder to kill
+- Screamers now REALLY SCREAM
+- A bit harder to kill Plague Juggernauts
+- Bloater Cloud is 6x it's regular size while Blood Bloater Cloud is 3x
+- Zombies and Plague Zombies scream much louder (louder than other mods)
+- Blood Ferals can spawn solo or in doubles
+- Added a pack os 2 Ferals and 1 Blood Feral
+
+
+Plague Hearts:
+
+- Plague Hearts extremely hard to kill
+- Plague Hearts spawns more zombies
+- Plague Hearts Drops are now much better
+- Plague Hearts bursts will potentially infect or kill you if you stand near it while they are calling zombies for help
+- Plague Hearts will now attract nearby zombies when damaged
+- Plague Hearts takes more damage from melee hits and fire but is ultra resistent to bullets and explosives.
+
+
+Items:
+
+- Roll of Firework Crackers is now much louder
+- Some throwables now take longer to explode
+- You may now throw consumables farther
+- Bloater Gland Harvest enabled by default
+- Fuel Cans and Repair Kits now stacks up to 3 each
+- Some consumables stacks up to 6 each
+
+
+Base and Outposts:
+
+- +1 Outpost Slot
+- +2 Base Bed
+- -1 Labor (because you are exploring, not working so makes sense.)
+- Sacks gives 3-5 resources
+- Harder Sieges!
+- Added a way to craft Enhanced Plague Cure at the infirmary
+- Added a way to craft Plague Busters at the stills
+
+
+
+Special Thanks to: 
+ZOD C 137, (⚔ ZOD C 137 ⚔#0420) for helping me with the editor
+LuSka and Ovão for testing this mod.
+Tx Digital Gaming for being so nice to me, and Heilos for developing the editor.
+
+To all other crybaby modders on modding discord who think they own something 
+just because they simply edited a game file, you can suck a cock.
+Peace!
