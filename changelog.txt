@@ -70,6 +70,7 @@ Base and Outposts:
 - Harder Sieges!
 - Added a way to craft Enhanced Plague Cure at the infirmary
 - Added a way to craft Plague Busters at the stills
+- Sometimes a random survivor will show up and ask to be recruited
 
 
 
