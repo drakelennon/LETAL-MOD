@@ -1,4 +1,5 @@
 If you like my mods, you can buy me a beer! :)
+PayPal: hertel.andrey@gmail.com
 
 
 Infernal Zone is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspaired in some other mods and much new stuff to make the game harder.
@@ -12,6 +13,8 @@ DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE T
 What does Infernal Mod changes in the game?
 
 Gameplay:
+
+- Turns Nightmare Zone into Infernal Zone!
 
 - No Peaceful Start: All* Freaks and Blood Freaks will spawn right from the start of the game, not after a couple of minutes [*Except for Blood Ferals]
 - Altered Starter Items: A chance* to start with a .22/.45/9mm revolver/pistols, ammo, plague cure... OR NO GUN AT ALL, feeling lucky? [*chance per survivor]
@@ -44,11 +47,12 @@ Zombies and Freaks:
 Plague Hearts:
 
 - Plague Hearts extremely hard to kill
-- Plague Hearts spawns more zombies
+- Plague Hearts spawn more zombies
+- Plague Hearts may spawn Blood Ferals
 - Plague Hearts Drops are now much better
 - Plague Hearts bursts will potentially infect or kill you if you stand near it while they are calling zombies for help
 - Plague Hearts will now attract nearby zombies when damaged
-- Plague Hearts takes more damage from melee hits and fire but is ultra resistent to bullets and explosives.
+- Plague Hearts takes more damage from melee hits, are slightly resistent to fire but are ultra resistent to bullets and explosives.
 
 
 Items:
@@ -70,15 +74,12 @@ Base and Outposts:
 - Harder Sieges!
 - Added a way to craft Enhanced Plague Cure at the infirmary
 - Added a way to craft Plague Busters at the stills
-- Sometimes a random survivor will show up and ask to be recruited
+- Outposts now cost Inluence and Materials
+- Safehouse outposts do not cost Materials but now costs more Influence and provides 3 Beds instead of 2
 
 
 
 Special Thanks to: 
-ZOD C 137, (⚔ ZOD C 137 ⚔#0420) for helping me with the editor
+ZOD C 137 for helping me with the editor
 LuSka and Ovão for testing this mod.
 Tx Digital Gaming for being so nice to me, and Heilos for developing the editor.
-
-To all other crybaby modders on modding discord who think they own something 
-just because they simply edited a game file, you can suck a cock.
-Peace!
