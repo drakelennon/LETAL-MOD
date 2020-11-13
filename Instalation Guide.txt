@@ -1,0 +1,18 @@
+If you like my mods, you can buy me a beer! :)
+PayPal: hertel.andrey@gmail.com
+
+
+Instalation Guide:
+
+To install Infernal Zone mod in State of Decay 2 just drop '000-InfernalMod_P.pak' to the following directory
+
+Steam:
+%LocalAppData%\StateOfDecay2\Saved\Paks
+
+Windows / Xbox App:
+%LocalAppData%\Packages\Microsoft.Dayton_8wekyb3d8bbwe\LocalCache\Local\StateOfDecay2\Saved\Paks
+
+If you can't find a Paks folder, simply right-click and create it inside 'Saved' folder
+drop mod in there and you're good to go
+
+To uninstall the mod, just move it outside Paks folder or just delete it.
