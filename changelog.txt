@@ -27,6 +27,7 @@ Gameplay:
 - Reduced EXP gains
 - Increased all vehicle gas tanks, trunk size and top speeds to be more realistic
 - Increased the amount of ammo you can carry depending on the ammo size
+- Flashlights are slightly brighter
 - Enclaves now spawn with 4-6 members
 - Enclaves now sell more items and ammo
 - Enclaves will now have better weapons
@@ -40,9 +41,9 @@ Zombies and Freaks:
 - Screamers now REALLY SCREAM
 - A bit harder to kill Plague Juggernauts
 - Bloater Cloud is 6x it's regular size while Blood Bloater Cloud is 3x
-- Zombies and Plague Zombies scream much louder (louder than other mods)
+- Zombies and Plague Zombies scream much louder
 - Blood Ferals can spawn solo or in doubles
-- Added a pack os 2 Ferals and 1 Blood Feral
+- Added a spawn pack of 1 Feral and 2 Blood Ferals (late game)
 
 
 Plague Hearts:
@@ -62,6 +63,7 @@ Items:
 - Some throwables now take longer to explode
 - You may now throw consumables farther
 - Bloater Gland Harvest enabled by default
+- Altered loot in some places
 - Fuel Cans and Repair Kits now stacks up to 3 each
 - Some consumables stacks up to 6 each
 
