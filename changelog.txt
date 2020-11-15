@@ -39,6 +39,7 @@ Zombies and Freaks:
 - Added Blood Freaks spawn and even more Zombies in the field as days goes by
 - Blood Ferals are a bit harder to kill
 - Screamers now REALLY SCREAM
+- Blood Screamers scream will spawn Zombies and Bloaters
 - A bit harder to kill Plague Juggernauts
 - Bloater Cloud is 6x it's regular size while Blood Bloater Cloud is 3x
 - Zombies and Plague Zombies scream much louder
