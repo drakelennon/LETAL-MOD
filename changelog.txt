@@ -3,7 +3,6 @@ PayPal: hertel.andrey@gmail.com
 
 
 Infernal Zone is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder.
-In this mod, you'll find many stuff from other known mods, but drasticaly modified here.
 I wanted to make this mod because, in my opinion, nightmare zone is too easy and my friends and me were lacking some challenge.
 Infernal Zone is designed to be played by 2-4 good players, but you can play it alone if you are good enough.
 
