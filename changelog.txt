@@ -5,6 +5,7 @@ PayPal: hertel.andrey@gmail.com
 Infernal Zone is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder.
 I wanted to make this mod because, in my opinion, nightmare zone is too easy and my friends and me were lacking some challenge.
 Infernal Zone is designed to be played by 2-4 good players, but you can play it alone if you are good enough.
+Some modifications were made to help the player deal with this higher difficulty, like starting with a gun and crouch sprinting enalbled, etc.
 
 DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!!!
 
@@ -13,15 +14,11 @@ What does Infernal Mod changes in the game?
 
 Gameplay:
 
-- Turns Nightmare Zone into Infernal Zone!
-
 - No Peaceful Start: All* Freaks and Blood Freaks will spawn right from the start of the game, not after a couple of minutes [*Except for Blood Ferals]
 - Altered Starter Items: A chance* to start with a .22/.45/9mm revolver/pistols, ammo, plague cure... OR NO GUN AT ALL, feeling lucky? [*chance per survivor]
-- Infernal Infestation: Infestations now may have 1 Blood Feral, 1 Blood Bloater, 2-4 Blood Screamers and a bunch of Plague Zombies
+- Infernal Infestation: Infestations now may have a Blood Feral, a Blood Bloater, 2-4 Blood Screamers and a bunch of Plague Zombies
 - Crouch Sprinting Enabled by default
 - All Specialization Unlocked
-- Morale changes
-- Now it costs more influence and some materials to claim an outpost
 - Increased damage taken from all sources [WILL AFFECT CLIENTS AS WELL, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!]
 - Reduced EXP gains
 - Increased all vehicle gas tanks, trunk size and top speeds to be more realistic
@@ -29,14 +26,15 @@ Gameplay:
 - Flashlights are slightly brighter
 - Enclaves now spawn with 4-6 members
 - Enclaves now sell more items and ammo
-- Enclaves will now have better weapons
+- Enclaves will now have better equipped weapons
 - Car Headlights are now much brighter
-- Faster looting but higher crash chance if speeding
+- Faster looting but higher crash chance
 
 
 Zombies and Freaks:
+
 - Added Blood Freaks spawn and even more Zombies in the field as days goes by
-- Blood Ferals are a bit harder to kill
+- Blood Ferals are harder to kill
 - Screamers now REALLY SCREAM
 - Blood Screamers scream will spawn Zombies and Bloaters
 - A bit harder to kill Plague Juggernauts
@@ -48,13 +46,13 @@ Zombies and Freaks:
 
 Plague Hearts:
 
-- Plague Hearts extremely hard to kill
+- Plague Hearts are hard to kill
 - Plague Hearts spawn more zombies
 - Plague Hearts may spawn Blood Ferals
-- Plague Hearts Drops are now much better
+- Plague Hearts' loot is now much better
 - Plague Hearts bursts will potentially infect or kill you if you stand near it while they are calling zombies for help
 - Plague Hearts will now attract nearby zombies when damaged
-- Plague Hearts takes more damage from melee hits, are slightly resistent to fire but are ultra resistent to bullets and explosives.
+- Plague Hearts take more damage from melee hits, are slightly resistent to fire but are ultra resistent to bullets and explosives.
 
 
 Items:
@@ -75,7 +73,7 @@ Base and Outposts:
 - +2 Base Bed
 - -1 Labor (because you are exploring, not working so makes sense.)
 - Sacks gives 3-5 resources
-- Harder Sieges!
+- Hard Sieges!
 - Added a way to craft Enhanced Plague Cure at the infirmary
 - Added a way to craft Plague Busters at the stills
 - Outposts now cost Inluence and Materials
@@ -93,4 +91,6 @@ In my opinion, mods are no intellectual property, they are just edits of a prese
 made BY the community FOR the community, to give credits for using other modder assets is OK
 but WE OWN NOTHING.
 
-You can use my assets as you wish, just give me credits and that's it.
+You can use my assets as you wish, just give me credits and that's it. 
+And if you don't, that's ok anyway, I'm always OK when the community wins.
+Peace!
