@@ -67,6 +67,7 @@ Items:
 - Altered loot in some places
 - Fuel Cans and Repair Kits now stacks up to 3 each
 - Some consumables stacks up to 6 each
+- All Bounty Broker itens from all seasons available
 
 
 Base and Outposts:
@@ -87,3 +88,10 @@ Special Thanks to:
 ZOD C 137 for helping me with the editor
 LuSka and Ovão for testing this mod.
 Tx Digital Gaming for being so nice to me, and Heilos for developing the editor.
+
+I decided not to post this mod on SOD2 Modding Discord because I disagree with rule 3.
+In my opinion, mods are no intellectual property, they are just edits of a present game file
+made BY the community FOR the community, to give credits for using other modder assets is OK
+but WE OWN NOTHING.
+
+You can use my assets as you wish, just give me credits and that's it.
