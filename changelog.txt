@@ -33,7 +33,7 @@ Gameplay:
 
 Zombies and Freaks:
 
-- Added Blood Freaks spawn and even more Zombies in the field as days goes by
+- Added Blood Freaks spawn and even more Zombies in the field
 - Blood Ferals are harder to kill
 - Screamers now REALLY SCREAM
 - Blood Screamers scream will spawn Zombies and Bloaters
