@@ -25,6 +25,7 @@ Gameplay:
 - Increased the amount of ammo you can carry depending on the ammo size
 - Flashlights are slightly brighter
 - Enclaves now spawn with 4-6 members
+- If your community is doing well, random survivors may show up and ask to be recruited
 - Enclaves now sell more items and ammo
 - Enclaves will now have better equipped weapons
 - Car Headlights are now much brighter
