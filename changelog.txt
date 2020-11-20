@@ -30,6 +30,8 @@ Gameplay:
 - Enclaves will now have better equipped weapons
 - Car Headlights are now much brighter
 - Faster looting but higher crash chance
+- Intro movies skipped! (you're welcome)
+
 
 
 Zombies and Freaks:
