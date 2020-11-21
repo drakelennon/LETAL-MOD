@@ -10,7 +10,7 @@ Some modifications were made to help the player deal with this higher difficulty
 DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!!!
 
 
-What does Infernal Mod changes in the game?
+Here is what Infernal Mod changes in the game:
 
 Gameplay:
 
@@ -68,6 +68,8 @@ Items:
 - Fuel Cans and Repair Kits now stacks up to 3 each
 - Some consumables stacks up to 6 each
 - All Bounty Broker itens from all seasons available
+- Force open Food Rucksacks may provide Energy Drinks
+- Force open Meds Rucksacks may provide a Vial of Plague Cure
 
 
 Base and Outposts:
