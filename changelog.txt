@@ -70,6 +70,7 @@ Items:
 - All Bounty Broker itens from all seasons available
 - Force open Food Rucksacks may provide Energy Drinks
 - Force open Meds Rucksacks may provide a Vial of Plague Cure
+- Removed the cinematic when using Plague Cure so it should no longer despawns zombies when used
 
 
 Base and Outposts:
