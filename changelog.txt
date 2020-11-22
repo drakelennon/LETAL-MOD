@@ -71,6 +71,7 @@ Items:
 - Force open Food Rucksacks may provide Energy Drinks
 - Force open Meds Rucksacks may provide a Vial of Plague Cure
 - Removed the cinematic when using Plague Cure so it should no longer despawns zombies when used
+- Swaped one of the M4A1 from warlord legacy boon with a AK47 Custom (and also some 5.56 bullets with some 7.62)
 
 
 Base and Outposts:
