@@ -55,7 +55,7 @@ Plague Hearts:
 - Plague Hearts' loot is now much better
 - Plague Hearts bursts will potentially infect or kill you if you stand near it while they are calling zombies for help
 - Plague Hearts will now attract nearby zombies when damaged
-- Plague Hearts take more damage from melee hits, are slightly resistent to fire but are ultra resistent to bullets and explosives.
+- Plague Hearts take more damage from melee hits, are slightly resistant to fire but are ultra resistant to bullets and explosives.
 
 
 Items:
