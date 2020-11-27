@@ -89,9 +89,8 @@ Base and Outposts:
 
 
 Special Thanks to: 
-ZOD C 137 for helping me with the editor
 LuSka and Ovão for testing this mod.
-Tx Digital Gaming for being so nice to me, and Heilos for developing the editor.
+
 
 I decided not to post this mod on SOD2 Modding Discord because I disagree with rule 3.
 In my opinion, mods are no intellectual property, they are just edits of a present game file
