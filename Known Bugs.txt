@@ -1,0 +1,4 @@
+Working on the fix:
+
+- Audio issues with Generic Freaks
+- Bloater Gas dealing not so much damage
