@@ -1,8 +1,8 @@
 Working on the fix:
 
-- Bloater Gas dealing not so much damage
 - Not being able to farm glands from blood bloaters
 
 FIXED:
 
-- Audio issues with Generic Freaks - FIXED!
+- Audio issues with Generic Freaks
+- Bloater Gas dealing not so much damage
