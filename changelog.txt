@@ -9,11 +9,21 @@ Some modifications were made to help the player deal with this higher difficulty
 
 DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!!!
 
-
 Here is what Infernal Mod changes in the game:
 
-Gameplay:
 
+Bloody Zone:
+Gameplay:
+- Everything from Infernal Zone
+- Kept some original spawns from Lethal Zone
+
+Plague Hearts:
+- Plague Hearts are even harder to kill
+- Same amount of Plague Hearts as Lethal Zone
+
+
+Infernal Zone:
+Gameplay:
 - No Peaceful Start: All* Freaks and Blood Freaks will spawn right from the start of the game, not after a couple of minutes [*Except for Blood Ferals]
 - Altered Starter Items: A chance* to start with a .22/.45/9mm revolver/pistols, ammo, plague cure... OR NO GUN AT ALL, feeling lucky? [*chance per survivor]
 - Infernal Infestation: Infestations now may have a Blood Feral, a Blood Bloater, 2-4 Blood Screamers and a bunch of Plague Zombies
@@ -35,7 +45,6 @@ Gameplay:
 
 
 Zombies and Freaks:
-
 - Added Blood Freaks spawn and even more Zombies in the field
 - Blood Ferals are harder to kill
 - Screamers now REALLY SCREAM
@@ -44,11 +53,10 @@ Zombies and Freaks:
 - Bloater Cloud is 6x it's regular size while Blood Bloater Cloud is 3x
 - Zombies and Plague Zombies scream much louder
 - Blood Ferals can spawn solo or in doubles
-- Added a spawn pack of 1 Feral and 2 Blood Ferals (late game)
+- Added a spawn pack of 1 Feral and 2 Blood Ferals
 
 
 Plague Hearts:
-
 - Plague Hearts are hard to kill
 - Plague Hearts spawn more zombies
 - Plague Hearts may spawn Blood Ferals
@@ -59,11 +67,10 @@ Plague Hearts:
 
 
 Items:
-
 - Roll of Firework Crackers is now much louder
 - Some throwables now take longer to explode
 - You may now throw consumables farther
-- Bloater Gland Harvest enabled by default
+- Bloater Gland Harvest enabled by default (bugged)
 - Altered loot in some places
 - Fuel Cans and Repair Kits now stacks up to 3 each
 - Some consumables stacks up to 6 each
@@ -75,15 +82,13 @@ Items:
 
 
 Base and Outposts:
-
 - +1 Outpost Slot
 - +2 Base Bed
 - -1 Labor (because you are exploring, not working so makes sense.)
 - Sacks gives 3-5 resources
 - Hard Sieges!
 - Added a way to craft Enhanced Plague Cure at the infirmary
-- Added a way to craft Plague Busters at the stills
-- Outposts now cost Inluence and Materials
+- Added a way to craft Plague Busters at the stills (bugged)
 - Safehouse outposts do not cost Materials but now costs more Influence and provides 3 Beds instead of 2
 
 
@@ -92,7 +97,6 @@ Special Thanks to:
 LuSka and Ovão for testing this mod.
 
 
-I decided not to post this mod on SOD2 Modding Discord because I disagree with rule 3.
 In my opinion, mods are no intellectual property, they are just edits of a present game file
 made BY the community FOR the community, to give credits for using other modder assets is OK
 but WE OWN NOTHING.
