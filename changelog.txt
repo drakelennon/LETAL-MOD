@@ -16,6 +16,7 @@ Bloody Zone:
 Gameplay:
 - Everything from Infernal Zone
 - Kept some original spawns from Lethal Zone
+- Kept almost all gameplay changes from Lethal
 
 Plague Hearts:
 - Plague Hearts are even harder to kill
