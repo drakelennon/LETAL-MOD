@@ -1,8 +1,5 @@
-Working on the fix:
-
-- Not being able to farm glands from blood bloaters
-
 FIXED:
 
 - Audio issues with Generic Freaks
 - Bloater Gas dealing not so much damage
+- Not being able to farm glands from blood bloaters (saddly patched by UL, but I've added another way to make plague busters)

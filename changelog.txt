@@ -2,10 +2,10 @@ If you like my mods, you can buy me a beer! :)
 PayPal: hertel.andrey@gmail.com
 
 
-Infernal Zone is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder.
-I wanted to make this mod because, in my opinion, nightmare zone is too easy and my friends and me were lacking some challenge.
-Infernal Zone is designed to be played by 2-4 good players, but you can play it alone if you are good enough.
-Some modifications were made to help the player deal with this higher difficulty, like starting with a gun and crouch sprinting enalbled, etc.
+Infernal Zone is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder and fun.
+I wanted to make this mod because, in my opinion, nightmare zone is too easy, lethal zone is lacking some fun and my friends and I were lacking some challenge.
+Infernal Zone is designed to be played by 2-4 good players.
+Some modifications were made to help the player deal with this higher difficulty, like starting with a gun and crouch sprinting enabled, etc.
 
 DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!!!
 
@@ -16,7 +16,7 @@ Bloody Zone:
 Gameplay:
 - Everything from Infernal Zone
 - Kept some original spawns from Lethal Zone
-- Kept almost all gameplay changes from Lethal
+- Kept almost all gameplay changes from Lethal Zone
 
 Plague Hearts:
 - Plague Hearts are even harder to kill
@@ -25,13 +25,12 @@ Plague Hearts:
 
 Infernal Zone:
 Gameplay:
-- No Peaceful Start: All* Freaks and Blood Freaks will spawn right from the start of the game, not after a couple of minutes [*Except for Blood Ferals]
+- No Peaceful Start: All Freaks and Blood Freaks will spawn right from the start of the game
 - Altered Starter Items: A chance* to start with a .22/.45/9mm revolver/pistols, ammo, plague cure... OR NO GUN AT ALL, feeling lucky? [*chance per survivor]
 - Infernal Infestation: Infestations now may have a Blood Feral, a Blood Bloater, 2-4 Blood Screamers and a bunch of Plague Zombies
 - Crouch Sprinting Enabled by default
 - All Specialization Unlocked
 - Increased damage taken from all sources [WILL AFFECT CLIENTS AS WELL, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!]
-- Reduced EXP gains
 - Increased all vehicle gas tanks, trunk size and top speeds to be more realistic
 - Increased the amount of ammo you can carry depending on the ammo size
 - Flashlights are slightly brighter
@@ -41,12 +40,12 @@ Gameplay:
 - Enclaves will now have better equipped weapons
 - Car Headlights are now much brighter
 - Faster looting but higher crash chance
-- Intro movies skipped! (you're welcome)
+- Intro movies skipped
 
 
 
 Zombies and Freaks:
-- Added Blood Freaks spawn and even more Zombies in the field
+- Added more Zombies in the field
 - Blood Ferals are harder to kill
 - Screamers now REALLY SCREAM
 - Blood Screamers scream will spawn Zombies and Bloaters
@@ -54,7 +53,7 @@ Zombies and Freaks:
 - Bloater Cloud is 6x it's regular size while Blood Bloater Cloud is 3x
 - Zombies and Plague Zombies scream much louder
 - Blood Ferals can spawn solo or in doubles
-- Added a spawn pack of 1 Feral and 2 Blood Ferals
+- Added a spawn pack of 2 Ferals and 1 Blood Feral
 
 
 Plague Hearts:
@@ -69,9 +68,7 @@ Plague Hearts:
 
 Items:
 - Roll of Firework Crackers is now much louder
-- Some throwables now take longer to explode
 - You may now throw consumables farther
-- Bloater Gland Harvest enabled by default (bugged)
 - Altered loot in some places
 - Fuel Cans and Repair Kits now stacks up to 3 each
 - Some consumables stacks up to 6 each
@@ -79,7 +76,7 @@ Items:
 - Force open Food Rucksacks may provide Energy Drinks
 - Force open Meds Rucksacks may provide a Vial of Plague Cure
 - Removed the cinematic when using Plague Cure so it should no longer despawns zombies when used
-- Swaped one of the M4A1 from warlord legacy boon with a AK47 Custom (and also some 5.56 bullets with some 7.62)
+- Replaced one of the M4A1 from warlord legacy boon with an AK47 Custom (and also replaced some 5.56 bullets with some 7.62)
 
 
 Base and Outposts:
@@ -89,19 +86,19 @@ Base and Outposts:
 - Sacks gives 3-5 resources
 - Hard Sieges!
 - Added a way to craft Enhanced Plague Cure at the infirmary
-- Added a way to craft Plague Busters at the stills (bugged)
+- Added a way to craft Plague Busters at the stills (15 Plague Samples, 5 Alcohol)
 - Safehouse outposts do not cost Materials but now costs more Influence and provides 3 Beds instead of 2
 
 
 
 Special Thanks to: 
-LuSka and Ovão for testing this mod.
+LuSka, Pekenoxd and Ovão for testing this mod.
 
 
 In my opinion, mods are no intellectual property, they are just edits of a present game file
 made BY the community FOR the community, to give credits for using other modder assets is OK
 but WE OWN NOTHING.
 
-You can use my assets as you wish, just give me credits and that's it. 
-And if you don't, that's ok anyway, I'm always OK when the community wins.
+You can use my assets as you wish, and I will use yours.
+I'm always OK when the community wins.
 Peace!
