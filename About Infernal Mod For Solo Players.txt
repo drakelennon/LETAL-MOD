@@ -1,4 +1,4 @@
-It's the same as InfernalMod, but made to solo players
+It's the same as InfernalMod, but made for solo players
 The only change for now is:
 
 - Melee hits does 3x damage on Plague Hearts than it does on InfernalMod
