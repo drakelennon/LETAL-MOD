@@ -1,0 +1,8 @@
+bug fixes:
+
+- fixed plague hearts damage
+- fixed bloaters gas damage
+
+added:
+
+- 2x Abandoned Rucksacks loot on Plague Hearts
