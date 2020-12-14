@@ -1,8 +1,14 @@
 bug fixes:
 
+v2.7
+- fixed plague hearts spawn on map change
+
+v2.6
 - fixed plague hearts damage
 - fixed bloaters gas damage
 
+
 added:
+v2.6
 
 - 2x Abandoned Rucksacks loot on Plague Hearts
