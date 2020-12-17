@@ -1,4 +1,7 @@
-bug fixes:
+
+v2.8
+- updated for update 23.1
+- removed my plague cure workaround since ULabs fixed the despawning bug
 
 v2.7
 - fixed plague hearts spawn on map change
@@ -6,9 +9,7 @@ v2.7
 v2.6
 - fixed plague hearts damage
 - fixed bloaters gas damage
-
-
-added:
-v2.6
-
 - 2x Abandoned Rucksacks loot on Plague Hearts
+
+
+
