@@ -1,0 +1,36 @@
+coming soon on v3.1:
+- InfernalLand (InfernalMod on Heartland mode)
+
+Current Version:
+v3.0
+- NPCs no longer spawn with supressed weapons, added crossbows and other weapons instead
+- multiplayer rewards nerfed
+- plague busters now requires 8 samples and 10 alcohol (5 samples and 7 alcohol with skill) 
+- Bloater gas cloud nerfed a bit in size, Blood Bloater gas buffed a bit in size
+
+v2.9
+- updated for update 24.1
+- Snacks now heals you a bit
+- The pack of Ferals and BFerals now has an increased cooldown
+- To be more realistic, Gas Cans are now impossible to find, (IRL, due to deterioration, gasoline only lasts
+for 6 mounths) the only way to get them now is by converting Fuel on the storage or buying from enclaves
+- more real life like suppressors, in terms of percentage of sound supressed
+- gunshots are louder
+- added some suppressed guns to some rare vendors
+- raised prices of all guns at broker and other vendors
+
+v2.8
+- updated for update 23.1
+- removed my plague cure workaround since ULabs fixed the despawning bug
+
+v2.7
+- fixed plague hearts spawn on map change
+
+v2.6
+- fixed plague hearts damage
+- fixed bloaters gas damage
+- 2x Abandoned Rucksacks loot on Plague Hearts
+
+v2.5 and lower:
+For a more complete list, read changelog.txt on my GitHub page
+

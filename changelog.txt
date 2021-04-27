@@ -2,14 +2,14 @@ If you like my mods, you can buy me a beer! :)
 PayPal: hertel.andrey@gmail.com
 
 
-Infernal Zone is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder and fun.
+InfernalMod is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder and fun.
 I wanted to make this mod because, in my opinion, nightmare zone is too easy, lethal zone is lacking some fun and my friends and I were lacking some challenge.
 Infernal Zone is designed to be played by 2-4 good players.
 Some modifications were made to help the player deal with this higher difficulty, like starting with a gun and crouch sprinting enabled, etc.
 
 DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!!!
 
-Here is what Infernal Mod changes in the game:
+Here is what InfernalMod changes in the game:
 
 
 Bloody Zone:
@@ -33,27 +33,25 @@ Gameplay:
 - Increased damage taken from all sources [WILL AFFECT CLIENTS AS WELL, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!]
 - Increased all vehicle gas tanks, trunk size and top speeds to be more realistic
 - Increased the amount of ammo you can carry depending on the ammo size
-- Flashlights are slightly brighter
 - Enclaves now spawn with 4-6 members
 - If your community is doing well, random survivors may show up and ask to be recruited
 - Enclaves now sell more items and ammo
 - Enclaves will now have better equipped weapons
 - Car Headlights are now much brighter
-- Faster looting but higher crash chance
+- 25% Faster looting but 50% crash chance on fast looting
 - Intro movies skipped
-
-
+- gunshots are louder
 
 Zombies and Freaks:
 - Added more Zombies in the field
 - Blood Ferals are harder to kill
 - Screamers now REALLY SCREAM
-- Blood Screamers scream will spawn Zombies and Bloaters
+- Blood Screamers scream will spawn many Zombies and Bloaters
 - A bit harder to kill Plague Juggernauts
-- Bloater Cloud is 6x it's regular size while Blood Bloater Cloud is 3x
+- Bloater Cloud is 4x it's regular size while Blood Bloater Cloud is 3x
 - Zombies and Plague Zombies scream much louder
 - Blood Ferals can spawn solo or in doubles
-- Added a spawn pack of 2 Ferals and 1 Blood Feral
+- Added a spawn pack of 3 Ferals and 2 Blood Ferals
 
 
 Plague Hearts:
@@ -64,26 +62,30 @@ Plague Hearts:
 - Plague Hearts bursts will potentially infect or kill you if you stand near it while they are calling zombies for help
 - Plague Hearts will now attract nearby zombies when damaged
 - Plague Hearts take more damage from melee hits, are slightly resistant to fire but are ultra resistant to bullets and explosives.
-- Plague hearts have a chance to drop a "Proof of Strengh" sack, which yelds 1500 Influence
+- Plague hearts have a chance to drop an "Abandoned Stuff" sack
 
 Items:
 - Roll of Firework Crackers is now much louder
 - You may now throw consumables farther
-- Altered loot in some places
+- changed loot in some places
 - Fuel Cans and Repair Kits now stacks up to 3 each
 - Some consumables stacks up to 6 each
-- All Bounty Broker itens from all seasons available
 - Force open Food Rucksacks may provide Energy Drinks
 - Force open Meds Rucksacks may provide a Vial of Plague Cure
-- Removed the cinematic when using Plague Cure so it should no longer despawns zombies when used
 - Replaced one of the M4A1 from warlord legacy boon with an AK47 Custom (and also replaced some 5.56 bullets with some 7.62)
+- Snacks now heals you
+- raised prices of some guns at bounty broker and other vendors
+- To be more realistic, Gas Cans are now impossible to find, (IRL, due to deterioration, gasoline only lasts
+for 6 mounths) the only way to get them now is by converting Fuel on the storage or buying from enclaves
+- more real life like suppressors, in terms of percentage of sound supressed
+- added some integral suppressed guns to some rare vendors
 
 
 Base and Outposts:
 - +1 Outpost Slot
 - +2 Base Bed
 - -1 Labor (because you are exploring, not working so makes sense.)
-- Sacks gives 3-5 resources
+- Sacks gives 3-4 resources
 - Hard Sieges!
 - Added a way to craft Enhanced Plague Cure at the infirmary
 - Added a way to craft Plague Busters at the stills (15 Plague Samples, 5 Alcohol)
@@ -92,7 +94,7 @@ Base and Outposts:
 
 
 Special Thanks to: 
-LuSka, Pekenoxd and Ovão for testing this mod.
+LuSka, Pekenoxd, Iron and Ovão and the Official French SOD2 Discord for testing this mod.
 
 
 In my opinion, mods are no intellectual property, they are just edits of a present game file
