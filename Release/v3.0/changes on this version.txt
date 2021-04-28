@@ -3,6 +3,7 @@ v3.0
 - NPCs have a chance to spawns with crossbows
 - Bloater gas cloud size nerfed, while Blood Bloater got buffed
 - Nerfed multiplayer rewards
+- enclaves will pay more for all trash/luxury items
 
 v2.9
 - updated for update 24.1
