@@ -1,0 +1,31 @@
+v3.0
+- NPCs no longer spawns with supressed weapons
+- NPCs have a chance to spawns with crossbows
+- Bloater gas cloud size nerfed, while Blood Bloater got buffed
+- Nerfed multiplayer rewards
+
+v2.9
+- updated for update 24.1
+- Snacks now heals you
+- The pack of Ferals and BFerals now has an increased cooldown
+- To be more realistic, Gas Cans are now impossible to find, (IRL, due to deterioration, gasoline only lasts
+for 6 mounths) the only way to get them now is by converting Fuel on the storage or buying from enclaves
+- more real life like suppressors, in terms of percentage of sound supressed
+- gunshots are louder
+- added some supressed guns to some rare vendors
+- raised prices of some guns at broker and other vendors
+
+v2.8
+- updated for update 23.1
+- removed my plague cure workaround since ULabs fixed the despawning bug
+
+v2.7
+- fixed plague hearts spawn on map change
+
+v2.6
+- fixed plague hearts damage
+- fixed bloaters gas damage
+- 2x Abandoned Rucksacks loot on Plague Hearts
+
+
+
