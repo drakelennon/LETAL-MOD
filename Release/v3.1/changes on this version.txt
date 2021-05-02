@@ -1,3 +1,8 @@
+v3.1
+- Morale Recruits now only show up if community standig is above 80
+- Multiplayer clients now have almost full access to what only host can do at base (Produce resources, get buffs, etc)
+- Fixed a bug where zombies were not spawning near plague hearts
+
 v3.0
 - NPCs no longer spawns with supressed weapons
 - NPCs have a chance to spawns with crossbows

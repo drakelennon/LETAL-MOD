@@ -40,7 +40,10 @@ Gameplay:
 - Car Headlights are now much brighter
 - 25% Faster looting but 50% crash chance on fast looting
 - Intro movies skipped
-- gunshots are louder 
+- gunshots are louder
+- door lock ratio incresed from 25% to 35%
+- player fire damage slightly increased
+- car honk is louder
 
 Zombies and Freaks:
 - Added more Zombies in the field
@@ -86,10 +89,11 @@ Base and Outposts:
 - +2 Base Bed
 - -1 Labor (because you are exploring, not working so makes sense.)
 - Sacks gives 3-4 resources
-- Hard Sieges!
+- Harder Sieges!
 - Added a way to craft Enhanced Plague Cure at the infirmary
 - Added a way to craft Plague Busters at the stills (15 Plague Samples, 5 Alcohol)
 - Safehouse outposts do not cost Materials but now costs more Influence and provides 3 Beds instead of 2
+- Multiplayer clients now have almost full access to what only host can do at base (Produce resources, get buffs, etc)
 
 
 
