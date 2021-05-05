@@ -1,6 +1,11 @@
+v3.2
+- Fuel efficiency nerfed
+- Plague samples drops nerfed
+- Added non-plagued Juggernauts to the field
+
 v3.1
-- Morale Recruits now only show up if community standig is above 80
-- Multiplayer clients now have almost full access to what only host can do at base (Produce resources, get buffs, etc)
+- Morale Recruits now only show up if community standig is above 80 and will only be a commom survivor
+- Multiplayer clients now have almost full access to what only host could do at base (Produce resources, get buffs, etc)
 - Fixed a bug where zombies were not spawning near plague hearts
 
 v3.0

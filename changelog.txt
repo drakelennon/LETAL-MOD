@@ -2,28 +2,21 @@ If you like my mods, you can buy me a beer! :)
 PayPal: hertel.andrey@gmail.com
 
 
-InfernalMod is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder and fun.
+InfernalMod is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder and funnier.
 I wanted to make this mod because, in my opinion, nightmare zone is too easy, lethal zone is lacking some fun and my friends and I were lacking some challenge.
-Infernal Zone is designed to be played by 2-4 good players.
+Infernal Zone is designed to be played by 2-4 GOOD players.
 Some modifications were made to help the player deal with this higher difficulty, like starting with a gun and crouch sprinting enabled, etc.
 
-DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!!!
+WARNINGS:
+- DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!!!
+- IN THIS DIFFICULTY YOUR CHARACTERS WILL POTENTIALLY DIE. THIS MODE IS DESIGNED TO EMPHASIZE THAT YOU ARE SURVIVING A F**** APOCALIPSE! NOT LIVING ON A HOLIDAY.
+- INFERNALMOD IS DESIGNED TO WORK ONLY ON LETHAL ZONE, I DIDN'T TEST IT ON OTHER ZONES, SO IT MAY HAVE SOME BUGS.
 
 Here is what InfernalMod changes in the game:
 
 
 Bloody Zone:
-Gameplay:
-- Everything from Infernal Zone
-- Kept some original spawns from Lethal Zone
-- Kept almost all gameplay changes from Lethal Zone
 
-Plague Hearts:
-- Plague Hearts are even harder to kill
-- Same amount of Plague Hearts as Lethal Zone
-
-
-Infernal Zone:
 Gameplay:
 - No Peaceful Start: All Freaks and Blood Freaks will spawn right from the start of the game
 - Altered Starter Items: A chance* to start with a .22/.45/9mm revolver/pistols, ammo, plague cure... OR NO GUN AT ALL, feeling lucky? [*chance per survivor]
@@ -44,6 +37,8 @@ Gameplay:
 - door lock ratio incresed from 25% to 35%
 - player fire damage slightly increased
 - car honk is louder
+- Fuel efficiency nerfed
+- Plague samples drops nerfed
 
 Zombies and Freaks:
 - Added more Zombies in the field
@@ -55,6 +50,7 @@ Zombies and Freaks:
 - Zombies and Plague Zombies scream much louder
 - Blood Ferals can spawn solo or in doubles
 - Added a spawn pack of 3 Ferals and 2 Blood Ferals
+- Added non-plagued Juggernauts to the field
 
 
 Plague Hearts:
@@ -91,7 +87,7 @@ Base and Outposts:
 - Sacks gives 3-4 resources
 - Harder Sieges!
 - Added a way to craft Enhanced Plague Cure at the infirmary
-- Added a way to craft Plague Busters at the stills (15 Plague Samples, 5 Alcohol)
+- Added a way to craft Plague Busters at the stills (7 Plague Samples, 5 Alcohol)
 - Safehouse outposts do not cost Materials but now costs more Influence and provides 3 Beds instead of 2
 - Multiplayer clients now have almost full access to what only host can do at base (Produce resources, get buffs, etc)
 
@@ -106,5 +102,5 @@ made BY the community FOR the community, to give credits for using other modder 
 but WE OWN NOTHING.
 
 You can use my assets as you wish, and I will use yours.
-I'm always OK when the community wins.
+I'm always OK when the community wins. MY BIG F YOU TO ALL MODDERS WHO THINK THEY ARE GODS.
 Peace!
