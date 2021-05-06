@@ -64,11 +64,11 @@ Plague Hearts:
 - Plague hearts have a chance to drop an "Abandoned Stuff" sack
 
 Items:
-- Roll of Firework Crackers is now much louder
+- Roll of Firecrackers are now much louder
 - You may now throw consumables farther
 - changed loot in some places
 - Fuel Cans and Repair Kits now stacks up to 3 each
-- Some consumables stacks up to 6 each
+- Some consumables stacks up to 6 and 8
 - Force open Food Rucksacks may provide Energy Drinks
 - Force open Meds Rucksacks may provide a Vial of Plague Cure
 - Replaced one of the M4A1 from warlord legacy boon with an AK47 Custom (and also replaced some 5.56 bullets with some 7.62)

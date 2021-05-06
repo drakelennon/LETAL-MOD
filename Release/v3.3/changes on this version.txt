@@ -1,3 +1,7 @@
+v3.3
+- Firecrackers now stacks up to 8
+- Nerfed Blood Ferals spawns when atacking plague hearts
+
 v3.2
 - Fuel efficiency nerfed
 - Plague samples drops nerfed
