@@ -1,6 +1,7 @@
 v3.3
 - Firecrackers now stacks up to 8
-- Nerfed Blood Ferals spawns when atacking plague hearts
+- Enclaves will no longer disband on recruiting
+- fixed a bug where plague freaks and plahue zombies would spawn even after destroying all plague hearts
 
 v3.2
 - Fuel efficiency nerfed

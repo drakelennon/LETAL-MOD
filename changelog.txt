@@ -39,6 +39,7 @@ Gameplay:
 - car honk is louder
 - Fuel efficiency nerfed
 - Plague samples drops nerfed
+- Enclaves will no longer disband on recruiting
 
 Zombies and Freaks:
 - Added more Zombies in the field
