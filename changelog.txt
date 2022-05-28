@@ -2,17 +2,17 @@ If you like my mods, you can buy me a beer! :)
 PayPal: hertel.andrey@gmail.com
 
 
-InfernalMod is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder and funnier.
+Letal++ Mod is a difficulty overhaul mod for State Of Decay 2 Nightmare Zone, inspired in some other mods and much new stuff to make the game harder and funnier.
 I wanted to make this mod because, in my opinion, nightmare zone is too easy, lethal zone is lacking some fun and my friends and I were lacking some challenge.
-Infernal Zone is designed to be played by 2-4 GOOD players.
+Letal++ Zone is designed to be played by 2-4 EXPERT players.
 Some modifications were made to help the player deal with this higher difficulty, like starting with a gun and crouch sprinting enabled, etc.
 
 WARNINGS:
 - DAMAGE MULTIPLIERS IN THIS MOD ALSO AFFECT CLIENTS, DON'T INVITE RANDOM PEOPLE TO YOUR GAME!!!
 - IN THIS DIFFICULTY YOUR CHARACTERS WILL POTENTIALLY DIE. THIS MODE IS DESIGNED TO EMPHASIZE THAT YOU ARE SURVIVING A F**** APOCALIPSE! NOT LIVING ON A HOLIDAY.
-- INFERNALMOD IS DESIGNED TO WORK ONLY ON LETHAL ZONE, I DIDN'T TEST IT ON OTHER ZONES, SO IT MAY HAVE SOME BUGS.
+- Letal++ IS DESIGNED TO WORK ONLY ON LETHAL ZONE, I DIDN'T TEST IT ON OTHER ZONES, SO IT MAY HAVE SOME BUGS.
 
-Here is what InfernalMod changes in the game:
+Here is what Letal++ Mod changes in the game:
 
 
 Bloody Zone:

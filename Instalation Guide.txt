@@ -4,7 +4,7 @@ PayPal: hertel.andrey@gmail.com
 
 Instalation Guide:
 
-To install Infernal Zone mod in State of Decay 2 just drop '000-InfernalMod_P.pak' to the following directory
+To install Letal++ Zone mod in State of Decay 2 just drop the file to the following directory
 
 Steam:
 %LocalAppData%\StateOfDecay2\Saved\Paks
