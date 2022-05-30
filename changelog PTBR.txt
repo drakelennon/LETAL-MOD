@@ -19,7 +19,7 @@ Zona Sangrenta:
 
 Jogabilidade:
 - Sem Começo Pacífico: Todos os Freaks e Blood Freaks aparecerão desde o início do jogo
-- Itens iniciais alterados: Uma chance* de começar com um revólver/pistolas .22/.45/9mm, munição, cura de peste... OU SEM ARMA, sentindo-se com sorte? [*chance por sobrevivente]
+- Itens iniciais alterados: Uma chance* de começar com um revólver/pistolas .22/.45/9mm, munição, cura de peste... OU SEM ARMA, tá com sorte? [*chance por sobrevivente]
 - Infestação Infernal: As infestações agora podem ter um Blood Feral, um Blood Bloater, 2-4 Blood Screamers e um monte de Plague Zombies [EM DESENVOLVIMENTO]
 - Todos os sobreviventes podem correr abaixados desde o inicio
 - Todas as Especializações Desbloqueadas
@@ -38,17 +38,19 @@ Jogabilidade:
 - a buzina do carro é mais alta
 - Eficiência de combustível nerfada
 - drop de Amostras da peste são nerfadas
+- base inicial terá muitos zumbis
 
 Zumbis e Aberrações:
-- Adicionado mais zumbis no campo
+- Se um zumbi com a peste te causar dano, você ficará 99% infectado
+- Adicionado mais zumbis no mapa
 - Blood Ferals são mais difíceis de matar
-- Screamers agora REALMENTE GRITAM
-- Grito de Blood Screamers irá gerar Zumbis, Selvagens e Inchados
+- Berradores agora REALMENTE GRITAM
+- Grito de Berradores irá gerar Zumbis, Selvagens e Inchados
 - Um pouco mais difícil de matar Colossais
 - Nuvem do inchado é 4x seu tamanho normal, enquanto do pestilento é 3x
 - Zumbis e Zumbis da Peste gritam muito mais alto
-- Blood Ferals podem aparecer sozinho ou em duplas
-- Adicionado um pack de spawn de 3 Ferals e 3 Blood Ferals juntos
+- Selvagens com a peste podem aparecer sozinho ou em duplas
+- Adicionado um pack de spawn de 3 Selvagens e 3 Selvagens com a peste juntos
 
 
 Nucleos Pestilentos:
@@ -70,7 +72,8 @@ Itens:
 - Para ser mais realista, gasolina agora é impossível de encontrar, (Na vida real, devido à deterioração, a gasolina dura apenas
 por 6 meses) a única maneira de obtê-los agora é fazendo combustível na base ou comprando em enclaves
 - mais realismo nos silenciadores, em termos de porcentagem de som suprimido
-- adicionou algumas armas suprimidas a alguns fornecedores raros
+- adicionadas algumas armas suprimidas a alguns fornecedores raros
+- os itens vendidos por enclaves e sobreviventes foram alterados
 
 
 Base e postos avançados:
@@ -87,7 +90,7 @@ Base e postos avançados:
 
 
 Agradecimentos especiais para:
-LuSka, Pekenoxd, Iron e Ovão e o Discord Oficial Francês SOD2 para testar este mod.
+LuSka, Pekenoxd, Iron e Ovão e o Discord Oficial Francês de SOD2 por testar este mod.
 
 
 Na minha opinião, mods não são propriedade intelectual, são apenas edições de um arquivo de jogo presente
