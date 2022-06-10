@@ -1,5 +1,6 @@
 Se você gosta dos meus mods, pode me pagar uma cerveja! :)
 PayPal: hertel.andrey@gmail.com
+PIX: 15981350329
 
 
 Letal++ Mod é um mod de revisão de dificuldade e realismo para State Of Decay 2, inspirado em alguns outros mods e muitas coisas novas para tornar o jogo mais difícil e DIVERTIDO.
@@ -15,53 +16,65 @@ AVISOS:
 Aqui estão ***ALGUMAS COISAS*** que o Mod Letal++ muda no jogo:
 
 
+**************
+ATENÇÃO: PARA QUE O MOD FUNCIONE CORRETAMENTE, TODOS OS PLAYERS QUE JOGARÃO COM VOCE DEVEM INSTALAR TAMBÉM 
+(Não funciona corretamente no XBOX por causa disso)
+**************
+
+
 Zona Sangrenta:
 
 Jogabilidade:
-- Sem Começo Pacífico: Todos os Freaks e Blood Freaks aparecerão desde o início do jogo
-- Itens iniciais alterados: Uma chance* de começar com um revólver/pistolas .22/.45/9mm, munição, cura de peste... OU SEM ARMA, tá com sorte? [*chance por sobrevivente]
-- Infestação Infernal: As infestações agora podem ter um Blood Feral, um Blood Bloater, 2-4 Blood Screamers e um monte de Plague Zombies [EM DESENVOLVIMENTO]
+- Sobreviventes iniciais e de enclaves comuns não tem nenhuma profissão de comunidade (use livros para aprender, drop e venda de livros foi aprimorada)
+- Sem Começo Pacífico: Todos os monstros especiais aparecerão desde o início do jogo
+- Itens iniciais alterados: Uma chance* de começar com um revólver/pistola, munição, cura de peste... OU SEM ARMA, tá com sorte? [*chance por sobrevivente]
+- Todos os sobreviventes iniciam com uma mochila de 8 espaços e 2 bolsos adicionais
+- *Infestação Infernal: As infestações agora podem ter um Selvagem com a peste, um Inchado com apeste, 2-4 berradores com a peste e um monte de zumbis com a peste [EM BREVE...]
 - Todos os sobreviventes podem correr abaixados desde o inicio
+- Todas as roupas desbloqueadas até o Patch 29.2
 - Todas as Especializações Desbloqueadas
 - Aumento do dano e peste recebido de todas as fontes [AFETARÁ OS CLIENTS TAMBÉM, NÃO CONVIDE PESSOAS ALEATÓRIAS PARA O SEU JOGO!]
 - Aumentou todos os tanques de gasolina do veículo, tamanho do porta-malas, faróis e velocidades máximas para serem mais realistas
 - Aumentou a quantidade de munição que você pode carregar dependendo do calibre da munição
 - Enclaves agora aparecem com 4-6 membros
 - Se sua comunidade estiver indo bem, sobreviventes aleatórios podem aparecer e pedir para serem recrutados
+- Se você tiver 3 sobreviventes ou menos, tem uma chance de aparecer 1 ou 2 sobreviventes para se juntar a sua comunidade
 - Enclaves agora vendem mais itens e munição
 - Enclaves agora terão armas melhores equipadas
-- 25% de saques mais rápidos, mas 50% de chance de travamento em saques rápidos
-- Filmes de introdução removidos
+- Filmes de introdução removidos (de nada!)
 - tiros são mais altos
 - taxa de porta trancada aumentada de 25% para 35%
 - dano de fogo do jogador ligeiramente aumentado
 - a buzina do carro é mais alta
 - Eficiência de combustível nerfada
-- drop de Amostras da peste são nerfadas
-- base inicial terá muitos zumbis
-
+- drop de Amostras da peste foi modificado, agora zumbis com a peste podem dropar Gosmas Estranhas que podem ser convertidas em amostras na Enfermaria.
+- Berradores com a peste e Selvagens com a peste podem dropar amostras da peste, colossais dropam entre 3 e 5 amostras
+- base inicial terá muitos zumbis e as vezes, inchados
+- a maioria das armas que vinham com mira, não virão mais com ela
+- agora voce pode comprar miras e equipar nas armas (para equipar uma mira e um silenciador ao mesmo tempo, use a vaga de garagem da base para anexar um ao outro)
 Zumbis e Aberrações:
 - Se um zumbi com a peste te causar dano, você ficará 99% infectado
 - Adicionado mais zumbis no mapa
-- Blood Ferals são mais difíceis de matar
-- Berradores agora REALMENTE GRITAM
+- Selvagens com a peste são mais difíceis de matar
+- Berradores agora GRITAM MAIS ALTO
 - Grito de Berradores irá gerar Zumbis, Selvagens e Inchados
 - Um pouco mais difícil de matar Colossais
 - Nuvem do inchado é 4x seu tamanho normal, enquanto do pestilento é 3x
-- Zumbis e Zumbis da Peste gritam muito mais alto
+- Zumbis e Zumbis da Peste gritam MUITO mais alto
 - Selvagens com a peste podem aparecer sozinho ou em duplas
-- Adicionado um pack de spawn de 3 Selvagens e 3 Selvagens com a peste juntos
+- Adicionado um grupo de spawn de 3 Selvagens e 3 Selvagens com a peste juntos
+- O mundo está um pouco mais escuro e a lanterna um pouco mais forte
+- Os olhos dos zumbis e a barriga do inchado não brilham mais
 
 
 Nucleos Pestilentos:
 - Nucleos Pestilentos tem muita vida
 - Nucleos Pestilentos geram mais zumbis
-- Nucleos Pestilentos pode gerar Blood Ferals
-- O saque de Nucleos Pestilentos agora é muito melhor
-- Explosões de Nucleos Pestilentos irão potencialmente infectar ou matar você se você ficar perto dele enquanto eles estão chamando zumbis para ajudar
-- Nucleos Pestilentos agora atrairá zumbis próximos quando danificado
+- Nucleos Pestilentos pode gerar Selvagens com a peste
+- Os itens de Nucleos Pestilentos agora são muito melhores e podem dropar um livro de profissão aleatorio
+- Reações do Nucleos Pestilentos irão potencialmente infectar ou matar você se você ficar perto dele enquanto eles estão chamando zumbis para ajudar (em transição)
+- Nucleos Pestilentos agora atrairá zumbis quando danificado
 - Nucleos Pestilentos sofrem mais danos de golpes corpo a corpo, são ligeiramente resistentes ao fogo, mas são ultra resistentes a balas e explosivos.
-- Nucleos Pestilentos têm a chance de deixar cair um saco de "Coisas Abandonadas"
 
 Itens:
 - Rolo de Traques agora são muito mais altos
@@ -69,20 +82,17 @@ Itens:
 - Latas de combustível e kits de reparo agora acumulam até 3 cada
 - Alguns consumíveis acumulam até 6 e 8
 - aumento dos preços de algumas armas no corretor de recompensas e outros fornecedores
-- Para ser mais realista, gasolina agora é impossível de encontrar, (Na vida real, devido à deterioração, a gasolina dura apenas
-por 6 meses) a única maneira de obtê-los agora é fazendo combustível na base ou comprando em enclaves
+- Para ser mais realista, gasolina agora é IMPOSSIVEL de encontrar, (Na vida real, devido à deterioração, mesmo que bem armazenada, a gasolina dura apenas
+por 6 meses, na historia do game ja se passou mais ou menos 1 ano) a única maneira de obtê-los agora é fazendo combustível no alambique ou comprando em enclaves
 - mais realismo nos silenciadores, em termos de porcentagem de som suprimido
-- adicionadas algumas armas suprimidas a alguns fornecedores raros
+- adicionadas algumas armas silenciadas de fábrica a alguns fornecedores raros
 - os itens vendidos por enclaves e sobreviventes foram alterados
 
 
 Base e postos avançados:
-- +1 slot de posto avançado
-- +2 Camas na Base
-- -1 mão de obra (porque você está explorando, não está trabalhando, então faz sentido.)
 - Sacos darão entre 3-4 recursos
 - Cercos Mais Difíceis, quase impossíveis! (para forçar o player a parar o que está fazendo e sair correndo da base)
-- Adicionada uma maneira de criar Cura da Peste Aprimorada na enfermaria
+- Adicionada uma maneira de criar Cura da Peste Aprimorada (do heartland) na enfermaria
 - Adicionada uma maneira de criar Destruidores da Peste nos alambiques
 - Postos avançados de casas comuns não custam Materiais, mas agora custam mais Influência e fornecem 3 Camas em vez de 2
 - Os clientes multiplayer agora têm acesso quase total ao que apenas o host podia fazer na base (Produzir recursos, obter buffs, etc.)
@@ -91,11 +101,3 @@ Base e postos avançados:
 
 Agradecimentos especiais para:
 LuSka, Pekenoxd, Iron e Ovão e o Discord Oficial Francês de SOD2 por testar este mod.
-
-
-Na minha opinião, mods não são propriedade intelectual, são apenas edições de um arquivo de jogo presente
-feito PELA comunidade PARA a comunidade, dar créditos por usar arquivos de outros modders é OK, mas NÃO SOMOS DONOS DE NADA.
-
-Você pode usar meus arquivos como quiser, e eu usarei os seus se eu quiser sem a sua permissão.
-Estou sempre bem quando a comunidade ganha. MEU GRANDE F*DA-SE A TODOS OS MODDERS QUE PENSAM QUE SÃO DEUSES.
-Paz!
